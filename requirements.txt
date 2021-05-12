@@ -1,0 +1,8 @@
+pythainlp==2.3.1
+pandas==1.2.4
+numpy==1.20.3
+uvicorn==0.13.4
+gunicorn
+joblib==1.0.1
+fastapi==0.65.1
+torch
