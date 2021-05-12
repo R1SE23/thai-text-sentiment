@@ -1,1 +1,3 @@
-"# thai_text_sentiment" 
+wisesight-sentiment dataset 
+
+Using SMOTE + Logistic Regression
