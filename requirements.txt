@@ -5,4 +5,5 @@ uvicorn==0.13.4
 gunicorn
 joblib==1.0.1
 fastapi==0.65.1
+pytorch==1.8.1
 
