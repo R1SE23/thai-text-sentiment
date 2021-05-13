@@ -11,13 +11,13 @@ It automatically generates SwaggerUI for APIs.
 ## Screenshots
 
 ### SwaggerUI
-![SwaggerUI](images/main.jpg)
+![SwaggerUI](images/main.JPG)
 
 ### Response
-![Response](images/response.jpg)
+![Response](images/response.JPG)
 
 ### Requests
-![Requests](images/requests.jpg)
+![Requests](images/requests.JPG)
 
 ### Prediction results
-![Prediction](images/prediction.jpg)
+![Prediction](images/prediction.JPG)
