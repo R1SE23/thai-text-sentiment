@@ -7,6 +7,7 @@ This web app is created with [FastAPI](https://fastapi.tiangolo.com/) which is h
 It automatically generates SwaggerUI for APIs.
 
 ## Try it out at https://thai-text-sentiment.herokuapp.com/
+## Colab link ->> https://colab.research.google.com/drive/18FmbTYHdEJnUM2q37tDbjx4h_QLp6VN6?usp=sharing
 
 ## Screenshots
 
