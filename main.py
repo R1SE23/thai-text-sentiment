@@ -39,7 +39,7 @@ def read_root():
 
     return {"message": "Welcome to the API"}
 
-@app.get("/predict/{text}")
+@app.post("/predict")
 def predict(text: str):
 
     model_input_df = make_inference_df(text)
